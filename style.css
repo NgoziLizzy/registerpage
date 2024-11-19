@@ -1,0 +1,75 @@
+
+#main-page {
+  margin-left: 10px;
+  text-align: center;
+}
+.forms {
+  margin-left: 550px;
+  background-color: rgb(242, 238, 242);
+  width: 350px;
+  height: 400px;
+  margin-top: 30px;
+  border-radius: 10px;
+}
+.form1 {
+  margin-left: 30px;
+  margin-bottom: 30px;
+}
+.form1 input {
+  width: 15rem;
+  height: 25px;
+  border-radius: 8px;
+  margin-top: 10px;
+
+}
+.form2 {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.form2 label {
+  margin-bottom: 25px;
+}
+
+.form2 input {
+  width: 15rem;
+  height: 25px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+.form3 {
+  margin-left: 30px;
+  margin-top: 25px;
+}
+.form3 label {
+  margin-bottom: 25px;
+}
+.form3 input {
+  width: 15rem;
+  height: 25px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.form4 {
+  margin-bottom: 25px;
+  margin-left: 30px;
+}
+.form4 label {
+  margin-bottom: 55px;
+}
+.form4 input {
+  width: 15rem;
+  height: 25px;
+  border-radius: 8px;
+  margin-top: 10px;
+}
+
+.Register {
+margin-top: 20px;
+width: 81%;
+border: solid 0.5px Ogray;
+height: 40px;
+border-radius: 5px;
+background-color: Orgb (171, 38, 86); color: white;
+box-shadow: 1px 1px 3px Orb (181, 180, 180);
+}
